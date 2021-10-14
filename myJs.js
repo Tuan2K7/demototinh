@@ -96,7 +96,7 @@ $('#yes').click(function() {
     var audio = new Audio('sound/tick.mp3');
     audio.play();
     Swal.fire({
-        title: 'Nói cho tớ lí do em thích anh đi :v :>',
+        title: 'Nói cho anh lí do em thích anh đi :v :>',
         html: true,
         width: 900,
         padding: '3em',
